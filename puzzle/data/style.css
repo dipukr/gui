@@ -1,0 +1,18 @@
+QWidget:Window {
+	background-image: url(":data/back.jpg");
+}
+
+QPushButton {
+	background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #61a2b1, stop: 1 #2A5058);
+	border: none;
+	border-radius: 3px;
+	font-size: 70px;
+	font-family: "Andalus";
+	color: white;
+	width: 200px;
+	height: 200px;
+}
+
+QPushButton:hover {
+	background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #2A5058, stop: 1 #61a2b1);
+}

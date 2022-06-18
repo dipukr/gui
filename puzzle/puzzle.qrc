@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file>data/style.css</file>
+<file>data/back.jpg</file>
+</qresource>
+</RCC>

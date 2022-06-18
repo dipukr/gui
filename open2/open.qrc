@@ -1,0 +1,10 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+  <file>data/about.png</file>
+  <file>data/logo.png</file>
+  <file>D:/Code/program/data/term</file>
+  <file>D:/Code/program/data/c.api</file>
+  <file>D:/Code/program/data/c++.api</file>
+  <file>D:/Code/program/data/linux.api</file>
+</qresource>
+</RCC> 
